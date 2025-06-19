@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vamshi Surya
 
 **Aspiring Data Analyst** | Passionate about data-driven solutions  
-📍 Based in India | Open to Remote & Relocation Opportunities  
+📍 Based in New Hampshire | Open to Remote & Relocation Opportunities  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vamshi-surya-77a968218)
 
