@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Vamshi Surya
 
-<!--
-**vamshisurya-creator/vamshisurya-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** | Passionate about data-driven solutions  
+📍 Based in India | Open to Remote & Relocation Opportunities  
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vamshi-surya-77a968218)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+
+I'm an aspiring **data analyst** with a passion for solving real-world problems through data. One of my most impactful projects is an **automated organ donation matching system**, where I designed logic to match donors and recipients using Python and data processing techniques.
+
+I love exploring data, uncovering patterns, and making insights actionable through analytics and visualization.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages & Libraries:** Python, SQL, Pandas, NumPy  
+- **Data Analysis & Logic Design**  
+- **Visualization:** Matplotlib, Seaborn  
+- **Problem Solving & Algorithms**  
+- **Real-World Applications:** Healthcare data, Matching systems
+
+---
+
+## 🚀 Projects
+
+### 🔗 Automated Organ Donation Matching System  
+Designed and developed a system that automates the matching of organ donors and recipients based on compatibility factors and urgency, improving efficiency and fairness in healthcare.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vamshi-surya-77a968218)  
+- ✉️ *Feel free to message me on LinkedIn for collaboration or freelance opportunities.*
+
+---
+
+*“Turning real-world problems into data-powered solutions.”*
