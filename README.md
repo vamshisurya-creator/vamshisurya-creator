@@ -35,7 +35,7 @@ Designed and developed a system that automates the matching of organ donors and 
 ## 📫 Connect With Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vamshi-surya-77a968218)  
-- ✉️ *Feel free to message me on LinkedIn for collaboration or freelance opportunities.*
+- 💡 Always eager to learn, collaborate, and contribute to impactful data projects.
 
 ---
 
