@@ -1,42 +1,23 @@
-# 👋 Hi, I'm Vamshi Surya
+Hi, I’m Surya Vamshi 👋
+About Me
+I am a Senior Java Full Stack Developer with 4+ years of experience specializing in Spring Boot microservices, Reactive Programming, and cloud-native application development. Passionate about building scalable, secure, and performant backend services, along with modern front-end interfaces using Angular and React.
 
-**Aspiring Data Analyst** | Passionate about data-driven solutions  
-📍 Based in New Hampshire | Open to Remote & Relocation Opportunities  
+What I Do
+Develop robust and secure RESTful and SOAP APIs using Spring Security, OAuth2, and JWT with a focus on compliance and best practices (HIPAA, PCI DSS).
+Build and optimize microservices architectures with Java 8/11/17, Spring Boot, and reactive frameworks.
+Design scalable event-driven systems with Apache Kafka, RabbitMQ, and cloud messaging services like AWS SQS and Azure Service Bus.
+Implement containerized deployments and orchestration using Docker and Kubernetes on AWS EKS and Azure AKS.
+Automate cloud infrastructure and CI/CD pipelines using Terraform, Jenkins, and Ansible.
+Enhance code quality and security with SonarQube, Snyk.io, and thorough unit and integration testing using JUnit, Mockito, and Selenium.
+Monitor and troubleshoot applications using Prometheus, Grafana, ELK Stack, and Datadog.
+Technologies & Tools
+Languages & Frameworks: Java 8/11/17, Spring Boot, Reactive Programming, Angular, React, JavaScript, TypeScript
+Cloud & DevOps: AWS (EKS, S3, EC2, SQS), Azure (AKS, Blob Storage, Key Vault), Terraform, Docker, Kubernetes, Jenkins, Ansible
+Databases: Oracle, MySQL, PostgreSQL, MongoDB, Cassandra, DynamoDB
+Messaging: Apache Kafka, RabbitMQ, AWS SQS, Azure Service Bus
+Testing: JUnit, Mockito, Selenium, Cucumber, Postman
+Monitoring: ELK Stack, Prometheus, Grafana, Datadog
+Version Control & Collaboration: Git, GitHub, Bitbucket, JIRA, Confluence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vamshi-surya-77a968218)
-
----
-
-## 🎯 About Me
-
-I'm an aspiring **data analyst** with a passion for solving real-world problems through data. One of my most impactful projects is an **automated organ donation matching system**, where I designed logic to match donors and recipients using Python and data processing techniques.
-
-I love exploring data, uncovering patterns, and making insights actionable through analytics and visualization.
-
----
-
-## 🛠️ Skills & Tools
-
-- **Languages & Libraries:** Python, SQL, Pandas, NumPy  
-- **Data Analysis & Logic Design**  
-- **Visualization:** Matplotlib, Seaborn  
-- **Problem Solving & Algorithms**  
-- **Real-World Applications:** Healthcare data, Matching systems
-
----
-
-## 🚀 Projects
-
-### 🔗 Automated Organ Donation Matching System  
-Designed and developed a system that automates the matching of organ donors and recipients based on compatibility factors and urgency, improving efficiency and fairness in healthcare.
-
----
-
-## 📫 Connect With Me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vamshi-surya-77a968218)  
-- 💡 Always eager to learn, collaborate, and contribute to impactful data projects.
-
----
-
-*“Turning real-world problems into data-powered solutions.”*
+Current Focus
+Working at IQVIA, developing cloud-native healthcare microservices with a strong focus on security, performance, and scalability. Constantly exploring new technologies and improving software development processes in Agile environments.
