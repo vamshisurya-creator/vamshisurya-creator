@@ -1,4 +1,5 @@
 👋 Hi, I'm Vamshi Surya
+
 💻 Senior Java Full Stack Developer | Spring Boot | React | AWS | Microservices | Docker | Kafka | Kubernetes
 I'm a highly accomplished and results-oriented Senior Java Full Stack Developer with over 5 years of professional experience in designing, developing, and deploying complex, scalable enterprise applications. I specialize in Spring Boot microservices, React/Angular UIs, and multi-cloud deployments on AWS, Azure, and GCP.
 
@@ -71,5 +72,3 @@ UI Responsiveness: Enhanced Angular UIs, improving transaction responsiveness by
 LinkedIn: https://www.linkedin.com/in/surya4752247200
 
 Email: vamshi.surya.eng@gmail.com
-
-“Code is not just written — it's crafted, secured, tested, deployed, and continuously improved.”
