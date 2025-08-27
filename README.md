@@ -71,3 +71,5 @@ UI Responsiveness: Enhanced Angular UIs, improving transaction responsiveness by
 LinkedIn: https://www.linkedin.com/in/surya4752247200
 
 Email: vamshi.surya.eng@gmail.com
+
+“Code is not just written — it's crafted, secured, tested, deployed, and continuously improved.”
