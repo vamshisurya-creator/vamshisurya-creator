@@ -1,76 +1,78 @@
-# 👋 Hi, I'm Surya Vamshi
+👋 Hi, I'm Vamshi Surya
 
-## 💻 Senior Java Full Stack Developer | Spring Boot | React | AWS | Microservices | Docker | Kafka | Kubernetes
+💻 Senior Java Full Stack Developer | Spring Boot | React | AWS | Microservices | Docker | Kafka | Kubernetes
 
-I’m a passionate and results-driven Java Developer with **5+ years of experience** building scalable backend systems and modern front-end applications. I specialize in **Spring Boot microservices**, **Angular/React UIs**, and **cloud deployments** using **AWS** and **Azure**.
+I'm a highly accomplished and results-oriented Senior Java Full Stack Developer with over 5 years of professional experience in designing, developing, and deploying complex, scalable enterprise applications. I specialize in Spring Boot microservices, React/Angular UIs, and multi-cloud deployments on AWS, Azure, and GCP.
 
----
+🛠️ Tech Stack & Tools
+Languages & Frameworks:
 
-## 🛠️ Tech Stack & Tools
+Java (8/11/17+) · Spring Boot · Spring Security · OAuth2 · JWT · REST/SOAP APIs · GraphQL
 
-**Languages & Frameworks:**  
-Java 8/11/17 · Spring Boot · Spring Security · OAuth2 · JWT · REST/SOAP APIs · GraphQL  
-Angular · React (Hooks, Redux) · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap  
+Angular · React (Hooks, Redux) · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap
 
-**Cloud & DevOps:**  
-AWS (EC2, S3, SQS, EKS) · Azure (AKS, Blob, Key Vault)  
-Terraform · Docker · Kubernetes · Jenkins · Ansible · GitHub Actions  
+Cloud & DevOps:
 
-**Databases:**  
-Oracle · MySQL · PostgreSQL · MongoDB · Cassandra · DynamoDB  
+AWS: EKS, SQS, EC2, S3, DynamoDB, Lambda
 
-**Messaging Systems:**  
-Apache Kafka · RabbitMQ · AWS SQS · Azure Service Bus  
+Azure: AKS, Service Bus, App Service, Key Vault
 
-**Testing & Quality:**  
-JUnit · Mockito · Selenium · Cucumber · Jasmine · Karma · Postman · SoapUI  
-SonarQube · Snyk.io · Jacoco  
+GCP: GKE, Cloud Run, Pub/Sub
 
-**Monitoring & Logging:**  
-Prometheus · Grafana · ELK Stack · Datadog · Splunk  
+Tools: Terraform · Docker · Kubernetes · Jenkins · Ansible · GitHub Actions
 
----
+Databases:
 
-## 🌍 Current Role
+Relational: Oracle · MySQL · PostgreSQL · SQL Server
 
-**Sr. Java Full Stack Developer at IQVIA **  
-- SDLC: Agile | Architecture: Microservices, Service-Oriented Architecture (SOA) | Frameworks: Spring Boot, Spring
-Security, OAuth2, JWT | Web Services: RESTful, SOAP | ORM: Hibernate, JPA | Cloud: AWS, Azure, GCP.
-- I've been in charge of building the core Spring Boot microservices that make all our AI magic happen. These systems
-handle an incredible amount of real-time healthcare data for over 40 million users, and I'm really proud that we keep
-them running flawlessly with 99.99% system uptime.
-- A big part of my role is crafting and securing our RESTful APIs – making sure our AI models can talk to everything else
-while keeping all that sensitive patient data locked down tight. My work here strictly adheres to HIPAA compliance
-using tools like Spring Security, OAuth2, and JWT.
-- On the front end, I've transformed complex AI-driven insights into really intuitive React and Angular dashboards.
-Honestly, seeing those visualizations helps clinicians so much, and my optimizations actually boosted our UI
-performance and user satisfaction by 25%.
-- I also architected and managed some incredibly resilient asynchronous data pipelines using Kafka, RabbitMQ, and
-AWS SQS. These pipelines are literally the lifeblood, taking vast healthcare datasets and getting them perfectly
-prepped for AI model training and inference without a hitch.
-- For deployment, I handle automating our whole cloud setup with Terraform, pushing our AI-enabled applications
-onto Kubernetes (EKS, AKS, GKE) and Docker. It all lives in IQVIA's Human Data Science Cloud across AWS, Azure,
-and GCP.
-- A highlight is working closely with data scientists, product managers, and clinical experts. We go through rigorous
-QA and UAT together, ensuring our new AI functionalities are completely vetted. We hit 85-90% test coverage with
-JUnit, Mockito, Jasmine, and Karma – quality is key.
-- And to keep everything zipping along, I've really dug into optimizing SQL queries for our AI solutions in Oracle and
-PostgreSQL, which actually sped up our database performance by 30%. Plus, I'm always monitoring the AI solution
-performance and system health using tools like Prometheus, Grafana, and Datadog to stay ahead of any issues
+NoSQL: MongoDB · Cassandra · DynamoDB · Cosmos DB
 
----
+Messaging Systems:
 
-## 📈 Highlights
+Apache Kafka · RabbitMQ · AWS SQS · Azure Service Bus
 
-- Delivered 85%+ test coverage across backend and frontend codebases  
-- Improved system performance by 25–30% through SQL and microservices optimizations  
-- Led Agile teams in DevSecOps practices and knowledge-sharing sessions  
+Testing & Quality:
 
----
+JUnit · Mockito · Selenium · Cucumber · Jasmine · Karma · Postman · SoapUI
 
-## 📫 Let's Connect
+SonarQube · Snyk.io
 
-- 🌐 [LinkedIn]https://www.linkedin.com/in/vamshi-surya-77a968218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7LQhNprwRcC%2FAtjczmIr6g%3D%3D
-- 📧 vamshi.surya.eng@gmail.com
+Monitoring & Logging:
 
-*“Code is not just written — it's crafted, secured, tested, deployed, and continuously improved.”*
+Prometheus · Grafana · ELK Stack · Datadog · Splunk · Dynatrace
+
+🌍 Professional Experience & Highlights
+Sr. Java Full Stack Developer | IQVIA
+
+Healthcare-grade AI® Solutions: Built core Spring Boot microservices handling real-time healthcare data for 40M+ users, ensuring 99.99% uptime.
+
+API Security & Compliance: Crafted secure, HIPAA-compliant RESTful APIs using Spring Security, OAuth2, and JWT.
+
+UI Performance: Developed intuitive React and Angular dashboards from complex AI insights, boosting UI performance by 25%.
+
+Data Pipelines: Architected and managed resilient asynchronous data pipelines with Kafka, RabbitMQ, and AWS SQS.
+
+Cloud & DevOps: Automated deployments with Terraform, Docker, and Kubernetes (EKS, AKS, GKE) on multi-cloud platforms.
+
+Database Optimization: Optimized SQL queries in Oracle and PostgreSQL, speeding up database performance by 30%.
+
+Java Full Stack Developer | HCA Healthcare
+
+Patient Management: Developed HIPAA-compliant microservices that improved system reliability by 20% for patient management.
+
+UI/UX Design: Built engaging React and Angular UIs to streamline healthcare provider workflows.
+
+CI/CD: Automated deployments with Terraform, Kubernetes (AKS, GKE), and Docker to boost operational stability.
+
+Java Developer | Discover
+
+Financial Services: Designed high-availability microservices for payment processing, ensuring strict PCI DSS compliance.
+
+Mentorship & Quality: Mentored junior developers and performed code reviews, championing coding standards and best practices.
+
+UI Responsiveness: Enhanced Angular UIs, improving transaction responsiveness by 20%.
+
+📫 Let's Connect
+LinkedIn: https://www.linkedin.com/in/surya4752247200
+
+Email: vamshi.surya.eng@gmail.com
