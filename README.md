@@ -1,74 +1,99 @@
 👋 Hi, I'm Vamshi Surya
+💻 Senior Java Full Stack Developer
 
-💻 Senior Java Full Stack Developer | Spring Boot | React | AWS | Microservices | Docker | Kafka | Kubernetes
-I'm a highly accomplished and results-oriented Senior Java Full Stack Developer with over 5 years of professional experience in designing, developing, and deploying complex, scalable enterprise applications. I specialize in Spring Boot microservices, React/Angular UIs, and multi-cloud deployments on AWS, Azure, and GCP.
+Spring Boot | React | AWS & Azure | Microservices | DevSecOps | Docker | Kafka | Kubernetes
 
-🛠️ Tech Stack & Tools
-Languages & Frameworks:
+🧠 About Me
 
-Java (8/11/17+) · Spring Boot · Spring Security · OAuth2 · JWT · REST/SOAP APIs · GraphQL
+I'm a highly accomplished Senior Java Full Stack Developer with over 5 years of experience delivering scalable, secure, and cloud-native enterprise applications across healthcare, finance, and AI-driven platforms.
 
-Angular · React (Hooks, Redux) · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap
+I specialize in:
 
-Cloud & DevOps:
+Designing Spring Boot microservices with 99.99% uptime
 
-AWS: EKS, SQS, EC2, S3, DynamoDB, Lambda
+Building modern UIs in ReactJS and Angular
 
-Azure: AKS, Service Bus, App Service, Key Vault
+Deploying applications in multi-cloud environments (AWS, Azure, GCP)
 
+Creating robust CI/CD pipelines, infrastructure as code, and secure APIs
+
+Collaborating with cross-functional teams in Agile environments
+
+🛠️ Technical Toolbox
+🚀 Languages & Frameworks
+
+Java (8/11/17+) · Spring Boot · Spring Security · Hibernate/JPA · OAuth2 · JWT · GraphQL · REST/SOAP APIs
+JavaScript · TypeScript · ReactJS (Hooks, Redux) · Angular · Bootstrap · HTML5 · CSS3
+
+☁️ Cloud & DevOps
+
+AWS: EC2, EKS, S3, Lambda, DynamoDB, SQS
+Azure: AKS, App Service, Key Vault, Service Bus
 GCP: GKE, Cloud Run, Pub/Sub
+DevOps: Docker · Kubernetes · Terraform · Jenkins · GitHub Actions · Ansible
 
-Tools: Terraform · Docker · Kubernetes · Jenkins · Ansible · GitHub Actions
+🗃️ Databases
 
-Databases:
-
-Relational: Oracle · MySQL · PostgreSQL · SQL Server
-
+Relational: Oracle · PostgreSQL · MySQL · SQL Server
 NoSQL: MongoDB · Cassandra · DynamoDB · Cosmos DB
 
-Messaging Systems:
+🔄 Messaging & Asynchronous Systems
 
 Apache Kafka · RabbitMQ · AWS SQS · Azure Service Bus
 
-Testing & Quality:
+🧪 Testing & Quality
 
-JUnit · Mockito · Selenium · Cucumber · Jasmine · Karma · Postman · SoapUI
+JUnit · Mockito · Selenium · Cucumber · Jasmine · Karma · SonarQube · Snyk.io
 
-SonarQube · Snyk.io
+📈 Monitoring & Logging
 
-Monitoring & Logging:
+Prometheus · Grafana · ELK Stack · Splunk · Datadog · Dynatrace
 
-Prometheus · Grafana · ELK Stack · Datadog · Splunk · Dynatrace
+💼 Professional Experience
+🏥 Sr. Java Full Stack Developer – IQVIA (Aug 2024 – Present)
 
-🌍 Professional Experience & Highlights
-Sr. Java Full Stack Developer | IQVIA
-Healthcare-grade AI® Solutions: Built core Spring Boot microservices handling real-time healthcare data for 40M+ users, ensuring 99.99% uptime.
+Developed real-time Spring Boot microservices powering AI insights for 40M+ users
 
-API Security & Compliance: Crafted secure, HIPAA-compliant RESTful APIs using Spring Security, OAuth2, and JWT.
+Built secure APIs with OAuth2 & JWT (HIPAA-compliant)
 
-UI Performance: Developed intuitive React and Angular dashboards from complex AI insights, boosting UI performance by 25%.
+Designed high-performance dashboards in React & Angular (25% UI speed boost)
 
-Data Pipelines: Architected and managed resilient asynchronous data pipelines with Kafka, RabbitMQ, and AWS SQS.
+Architected Kafka, RabbitMQ, AWS SQS-based pipelines
 
-Cloud & DevOps: Automated deployments with Terraform, Docker, and Kubernetes (EKS, AKS, GKE) on multi-cloud platforms.
+Deployed AI apps with Docker, Kubernetes (EKS/AKS/GKE) using Terraform
 
-Database Optimization: Optimized SQL queries in Oracle and PostgreSQL, speeding up database performance by 30%.
+Achieved 85–90% test coverage with JUnit, Jasmine, Mockito
 
-Java Full Stack Developer | HCA Healthcare
-Patient Management: Developed HIPAA-compliant microservices that improved system reliability by 20% for patient management.
+🏥 Java Full Stack Developer – HCA Healthcare (May 2021 – Aug 2023)
 
-UI/UX Design: Built engaging React and Angular UIs to streamline healthcare provider workflows.
+Delivered HIPAA-compliant microservices improving patient system reliability by 20%
 
-CI/CD: Automated deployments with Terraform, Kubernetes (AKS, GKE), and Docker to boost operational stability.
+Created seamless UIs with React & Angular for healthcare workflows
 
-Java Developer | Discover
-Financial Services: Designed high-availability microservices for payment processing, ensuring strict PCI DSS compliance.
+Automated deployments using Terraform, Kubernetes, Docker
 
-Mentorship & Quality: Mentored junior developers and performed code reviews, championing coding standards and best practices.
+Maintained over 85% test coverage; monitored using Prometheus, ELK
 
-UI Responsiveness: Enhanced Angular UIs, improving transaction responsiveness by 20%.
+💳 Java Developer – Discover Financial Services (Jun 2019 – May 2021)
 
-📫 Let's Connect
-LinkedIn: https://www.linkedin.com/in/surya4752247200
+Built PCI DSS-compliant microservices for high-volume payment processing
 
-Email: vamshi.surya.eng@gmail.com
+Mentored junior developers; conducted rigorous code reviews
+
+Enhanced Angular UIs (20% performance gain)
+
+Automated CI/CD with Jenkins, Ansible
+
+Used RabbitMQ, AWS SQS for asynchronous financial data delivery
+
+🎓 Education
+
+Master of Science in Computer Science
+Rivier University – Nashua, NH
+
+📫 Connect With Me
+
+
+📧 vamshi.surya.eng@gmail.com
+
+📱 +1 (475) 224-7200
