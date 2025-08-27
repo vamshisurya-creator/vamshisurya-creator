@@ -1,4 +1,4 @@
-👋 Hi, I'm Vamshi Surya
+👋 Hi, I'm 💼 Vamshi Surya
 💻 Senior Java Full Stack Developer
 
 Spring Boot | React | AWS & Azure | Microservices | DevSecOps | Docker | Kafka | Kubernetes
