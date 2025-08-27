@@ -1,7 +1,5 @@
 👋 Hi, I'm Vamshi Surya
-
 💻 Senior Java Full Stack Developer | Spring Boot | React | AWS | Microservices | Docker | Kafka | Kubernetes
-
 I'm a highly accomplished and results-oriented Senior Java Full Stack Developer with over 5 years of professional experience in designing, developing, and deploying complex, scalable enterprise applications. I specialize in Spring Boot microservices, React/Angular UIs, and multi-cloud deployments on AWS, Azure, and GCP.
 
 🛠️ Tech Stack & Tools
@@ -43,7 +41,6 @@ Prometheus · Grafana · ELK Stack · Datadog · Splunk · Dynatrace
 
 🌍 Professional Experience & Highlights
 Sr. Java Full Stack Developer | IQVIA
-
 Healthcare-grade AI® Solutions: Built core Spring Boot microservices handling real-time healthcare data for 40M+ users, ensuring 99.99% uptime.
 
 API Security & Compliance: Crafted secure, HIPAA-compliant RESTful APIs using Spring Security, OAuth2, and JWT.
@@ -57,7 +54,6 @@ Cloud & DevOps: Automated deployments with Terraform, Docker, and Kubernetes (EK
 Database Optimization: Optimized SQL queries in Oracle and PostgreSQL, speeding up database performance by 30%.
 
 Java Full Stack Developer | HCA Healthcare
-
 Patient Management: Developed HIPAA-compliant microservices that improved system reliability by 20% for patient management.
 
 UI/UX Design: Built engaging React and Angular UIs to streamline healthcare provider workflows.
@@ -65,7 +61,6 @@ UI/UX Design: Built engaging React and Angular UIs to streamline healthcare prov
 CI/CD: Automated deployments with Terraform, Kubernetes (AKS, GKE), and Docker to boost operational stability.
 
 Java Developer | Discover
-
 Financial Services: Designed high-availability microservices for payment processing, ensuring strict PCI DSS compliance.
 
 Mentorship & Quality: Mentored junior developers and performed code reviews, championing coding standards and best practices.
